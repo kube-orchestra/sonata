@@ -6,4 +6,4 @@ Sonata is the bridge Operator to provide a Kubernetes API on top of the Maestro 
 
 ## Kube Orchestra Architecture
 
-![Kube Orchestra Arch](./arch.png)
+![Kube Orchestra Architecture](./architecture.png)
